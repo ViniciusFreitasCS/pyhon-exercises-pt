@@ -1,3 +1,3 @@
-# pyhon-exercises-en
+# Python Codes
 
-Apenas alguns exercícios simples em Python.
+Exercícios simples em Python.
